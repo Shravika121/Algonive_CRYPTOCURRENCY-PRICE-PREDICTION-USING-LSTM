@@ -1,4 +1,5 @@
-📊 Cryptocurrency Price Prediction Using LSTM
+# 📊 Cryptocurrency Price Prediction Using LSTM
+
 🚀 Project Overview
 
 This project implements a Time-Series Forecasting Model using Long Short-Term Memory (LSTM) networks to predict cryptocurrency prices.
@@ -62,6 +63,7 @@ Volume
 For prediction, the Close price is used.
 
 🔄 Project Workflow
+
 1️⃣ Data Collection
 
 Download historical cryptocurrency data using yFinance.
@@ -129,6 +131,7 @@ Trained LSTM model
 Actual vs Predicted Price Graph
 
 Cryptocurrency price forecasting system
+
 ▶️ How to Run the Project
 
 Open Google Colab
